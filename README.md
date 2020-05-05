@@ -1,4 +1,2 @@
 # google_homepage
-
-
-hello hi
+hello this is my first github project 
